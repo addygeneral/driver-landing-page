@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/addygeneral/driver-landing-page.git/static/css/main.3d6c75f4.css",
+    "main.js": "/addygeneral/driver-landing-page.git/static/js/main.174ebcf6.js",
+    "static/js/787.20d6360d.chunk.js": "/addygeneral/driver-landing-page.git/static/js/787.20d6360d.chunk.js",
+    "static/media/boltlogo.png": "/addygeneral/driver-landing-page.git/static/media/boltlogo.c2a8d0283d3d4d1c69fe.png",
+    "index.html": "/addygeneral/driver-landing-page.git/index.html",
+    "main.3d6c75f4.css.map": "/addygeneral/driver-landing-page.git/static/css/main.3d6c75f4.css.map",
+    "main.174ebcf6.js.map": "/addygeneral/driver-landing-page.git/static/js/main.174ebcf6.js.map",
+    "787.20d6360d.chunk.js.map": "/addygeneral/driver-landing-page.git/static/js/787.20d6360d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6c75f4.css",
+    "static/js/main.174ebcf6.js"
+  ]
+}
